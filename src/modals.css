@@ -1,0 +1,17 @@
+.modal_style{
+    margin-top: 6%;
+    position: fixed !important;
+    z-index: 1;
+    overflow: auto;
+    background-color: white;
+    box-shadow: 0px 0px 20px #80808091;
+
+}
+.padding_0{
+    padding: 0px !important;
+}
+.modal_body{
+    padding: 80px !important;
+    border-bottom: 1px solid #00000036;
+
+}
